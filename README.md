@@ -39,25 +39,21 @@ This project aims to detect spam emails using machine learning techniques. The g
 
 ## Screenshots
 
-(mail/images/main.png) 
-*Caption for Screenshot 1.*
+![Screenshot 1](email/images/main.png) 
+*This is the main interface of our project*
 
-![Screenshot 2](email/images/main.png) <!-- Replace 'screenshot2.png' with your screenshot -->
-*Caption for Screenshot 2.*
+![Screenshot 2](email/images/spam.png) <!-- Replace 'screenshot2.png' with your screenshot -->
+*Testing for spam mail prediction*
+
+![Screenshot 3](email/images/not spam.png) <!-- Replace 'screenshot2.png' with your screenshot -->
+*Testing for Real mail prediction*
 
 ## Contributing
 
 Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
+#
 ### Contact
 
-For questions or support, please contact [yourname@email.com](mailto:yourname@email.com).
-
-![Sign](sign.png) <!-- Replace 'sign.png' with your sign image -->
+For questions or support, please contact [lambeharsh21@gmail.com](mailto:lambeharsh21@gmail.com).
 
