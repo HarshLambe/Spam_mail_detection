@@ -1,6 +1,3 @@
-Certainly! Here's a template for your README file for the "Spam Mail Detection" project, including placeholders for logos, signs, and images:
-
----
 
 # Spam Mail Detection Project
 
@@ -42,7 +39,7 @@ This project aims to detect spam emails using machine learning techniques. The g
 
 ## Screenshots
 
-![Screenshot 1](main.png) 
+![Screenshot 1](mail/images/main.png) 
 *Caption for Screenshot 1.*
 
 ![Screenshot 2](spam.png) <!-- Replace 'screenshot2.png' with your screenshot -->
