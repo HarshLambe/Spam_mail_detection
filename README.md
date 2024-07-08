@@ -39,7 +39,7 @@ This project aims to detect spam emails using machine learning techniques. The g
 
 ## Screenshots
 
-![Screenshot 1](mail/images/main.png) 
+(mail/images/main.png) 
 *Caption for Screenshot 1.*
 
 ![Screenshot 2](spam.png) <!-- Replace 'screenshot2.png' with your screenshot -->
