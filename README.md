@@ -41,10 +41,10 @@ This project aims to detect spam emails using machine learning techniques. The g
 *This is the main interface of our project*
 ![Screenshot 1](email/images/main.png) 
 
-
+*Classified mail as Spam*
 ![Screenshot 2](email/images/spam.png)
 
-
+*Classified mail as Real*
 ![Screenshot 3](email/images/notspam.png)
 
 
