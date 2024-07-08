@@ -38,15 +38,15 @@ This project aims to detect spam emails using machine learning techniques. The g
    ```
 
 ## Screenshots
-
-![Screenshot 1](email/images/main.png) 
 *This is the main interface of our project*
+![Screenshot 1](email/images/main.png) 
+
 
 ![Screenshot 2](email/images/spam.png)
-*Testing for spam mail prediction*
 
-![Screenshot 3](email/images/not spam.png)
-*Testing for Real mail prediction*
+
+![Screenshot 3](email/images/notspam.png)
+
 
 ## Contributing
 
